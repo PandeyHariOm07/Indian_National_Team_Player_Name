@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Array Adapter</string>
+    <string name="Vollyball_Team" />
+    <string name="Cricket_Team" />
+    <string name="Football_Team" />
+    <string name="Hockey_Team" />
+    <string name="cricket_team">Cricket Team</string>
+</resources>
